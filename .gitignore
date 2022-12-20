@@ -1,0 +1,14 @@
+# Archivos de configuración del usuario
+.bashrc
+.bash_profile
+
+# Archivos generados por el sistema o el script
+*.log
+*.out
+
+# Archivos binarios o ejecutables
+*.exe
+*.bin
+
+# Carpetas de dependencias
+/vendor/
